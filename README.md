@@ -1,7 +1,7 @@
 Hey there! I'm Sahil. 👋
 
 👨🏻‍💻  About Me
-🤔   Bringing Machines closer to Mankind.
+�  Bringing Machines closer to Mankind.
 🎓   Studying Software Engineering at Arizona State University.
 
 🛠  Tech Stack
