@@ -117,4 +117,7 @@ Here are some ideas to get you started:
  
 - 🛢 &nbsp;
   ![AWS](http://img.shields.io/badge/-AWS-333333?style=flat&logo=Amazon-aws&logoColor=cyan)
+  
+  <h3> 👀🏻‍💻 &nbsp;Visitor Count </h3>
+
 
