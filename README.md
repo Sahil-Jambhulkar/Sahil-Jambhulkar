@@ -1,23 +1,8 @@
-## Hi there <img src="https://github.com/ksrath0re/ksrath0re/blob/master/wave.gif" width="30px"> I'm Sahil Jambhulkar.
-#### <img src="https://media3.giphy.com/media/l2JhORT5IFnj6ioko/giphy.gif" width="30px"> I’m currently looking for Software Engineering based full-time roles. Connect with me below.
+## Hi there, I am Sahil Jambhulkar.
+#### I’m currently looking for Software Engineering based full-time roles. Connect with me below.
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/Sahil-Jambhulkar)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/sahil-jambhulkar/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:sjambhu1@asu.edu)
-<!--
-**ksrath0re/ksrath0re** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 ##### I am a recent Masters' in Software Engineering graduate from Arizona State University. I am charged up about Full Stack Development, with 3 years of professional software development experience.
 <center>
