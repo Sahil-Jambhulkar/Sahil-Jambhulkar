@@ -6,11 +6,11 @@
 
 ##### Greetings and welcome to my GitHub profile! I am a highly skilled and motivated software engineer with a Master's degree in Software Engineering from Arizona State University. I have a passion for full stack development and bring a wealth of experience to the table, having worked as a professional software developer for 3 years. 
 
-### Throughout my career, I have honed my technical skills in a wide range of programming languages and technologies, and I have a solid foundation in computer science concepts. I am committed to delivering high-quality, scalable software systems that meet the needs of my clients and exceed their expectations. 
+##### Throughout my career, I have honed my technical skills in a wide range of programming languages and technologies, and I have a solid foundation in computer science concepts. I am committed to delivering high-quality, scalable software systems that meet the needs of my clients and exceed their expectations. 
 
-### With a track record of success in developing complex software solutions for a variety of clients, I am confident in my ability to bring value to any project. I am always looking for opportunities to collaborate with other developers and to work on exciting new projects. If you are interested in connecting, please don't hesitate to reach out. 
+##### With a track record of success in developing complex software solutions for a variety of clients, I am confident in my ability to bring value to any project. I am always looking for opportunities to collaborate with other developers and to work on exciting new projects. If you are interested in connecting, please don't hesitate to reach out. 
 
-### Thank you for visiting my profile and I look forward to the opportunity to collaborate with you in the future.
+##### Thank you for visiting my profile and I look forward to the opportunity to collaborate with you in the future.
 <center>
 <table style="width: 50%; margin-left: auto; margin-right: auto; height: 160px;">
 <tbody>
